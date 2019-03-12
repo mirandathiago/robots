@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/mirandathiago/robots/issues"
   },
-  "homepage": "https://github.com/mirandathiago/robots#readme"
+  "homepage": "https://github.com/mirandathiago/robots#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
 }
